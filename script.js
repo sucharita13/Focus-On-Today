@@ -7,9 +7,9 @@ const progressValue = document.querySelector('.progress-value')
 
 const allQuotes = [
   'Raise the bar by completing your goals!',
-  'Well begun is half done!',
+  'Great Start!',
   'Just a step away, keep going!',
-  'Whoa! You just completed all the goals, time for chill :D',
+  'Whoa! You just completed all the goals, time to chill :D',
 ]
 
 // const allGoals = JSON.parse(localStorage.getItem('allGoals')) || {
